@@ -28,7 +28,7 @@ p{color:#1d232b;margin:0;white-space:normal;word-break:break-all}
 .disabled{pointer-events:none;filter:grayscale(100%);-webkit-filter:grayscale(100%);-moz-filter:grayscale(100%);-ms-filter:grayscale(100%);-o-filter:grayscale(100%);filter:url("data:image/svg+xml;utf8,#grayscale");filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);-webkit-filter:grayscale(1)}
 @media (min-width:1920px){.content-site{max-width:1900px}
 }
-@media (min-width:768px){.content-site{padding:0 30px}
+@media (min-width:768px){.content-site{padding:0 0px}
 }
 /*--------------------------------------------------------------
 ## WordPress Basics style
